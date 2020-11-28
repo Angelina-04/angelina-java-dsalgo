@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 
 public interface Flower {
 	public String getName(); 

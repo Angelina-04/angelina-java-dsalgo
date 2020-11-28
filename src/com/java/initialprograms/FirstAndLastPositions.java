@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 import java.util.Scanner;
 
 class FirstAndLastPositions { 

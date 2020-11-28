@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 import java.util.Arrays; 
 public class KthLargest {
 	    public static int kthLargest(Integer[] arr,int k) 

@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 import java.util.Arrays;
 import java.util.Scanner;
 public class pushZerosToEnd {

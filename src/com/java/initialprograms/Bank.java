@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 
 public class Bank {
 String name="Kodak Bank";

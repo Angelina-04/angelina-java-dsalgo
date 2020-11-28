@@ -1,4 +1,4 @@
-package com.myproject;
+package com.java.initialprograms;
 import java.util.Scanner;
 class SecondLargest { 
 	static void print3largest(int arr[], int arr_size) 
